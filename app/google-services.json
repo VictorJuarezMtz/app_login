@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550440966699",
+    "firebase_url": "https://blackdishprueba.firebaseio.com",
+    "project_id": "blackdishprueba",
+    "storage_bucket": "blackdishprueba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550440966699:android:e53b337d35e43c82cba86e",
+        "android_client_info": {
+          "package_name": "com.example.app_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550440966699-pd7l0c2kfv7tufu8prip94447jk9p0f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_login",
+            "certificate_hash": "fc7c0fbbb3babd48e67d1c0bde7640b5983b8d09"
+          }
+        },
+        {
+          "client_id": "550440966699-rhdrlnti1k5ig60hrkoe78jmf8cfsrkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQukFmAnJG-_mjIeY1YYjciWRXC1DJkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550440966699-rhdrlnti1k5ig60hrkoe78jmf8cfsrkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
