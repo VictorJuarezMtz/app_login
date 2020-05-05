@@ -1,0 +1,31 @@
+<resources>
+    <string name="logeout">logeout</string>
+    <string name="app_name">My Application</string>
+    <string name="button">Iniciar Sesion</string>
+    <string name="see_it_eat_it">SEE IT</string>
+    <string name="correo">Correo</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="password2">Repite Password</string>
+    <string name="phone">Telefono</string>
+    <string name="address">Direccion</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="iniciar_sesion">iniciar sesion</string>
+    <string name="back">Volver</string>
+    <string name="eat_it">EAT IT</string>
+    <string name="logincorreo">Login Correo</string>
+    <string name="login_facebook">Login Facebook</string>
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="user">User</string>
+    <string name="regisrar">Registrar</string>
+    <string name="count">¿Ya tienes una cuenta?</string>
+    <string name="newu">Eres nuevo?</string>
+    <string name="regi">Crea una cuenta</string>
+    <string name="card_text">Card</string>
+    <string name="todo">TODO</string>
+    <string name="name">Tu Nombre</string>
+    <string name="emailyou">Tu correo</string>
+    <string name="addressyou">Tu Direccion</string>
+    <string name="phoneyou">Tu Telefono</string>
+</resources>
